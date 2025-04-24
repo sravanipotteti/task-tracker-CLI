@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Study DSA",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Revise DSA topics",
+    "status": "in-progress"
+  }
+]
